@@ -1,2 +1,2 @@
 # Employee_Retention
-Employee Retention using ML and NLP techniques
+Employee Retention using Machine Learning and Natural Language Processing techniques
